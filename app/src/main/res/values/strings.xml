@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">foodyv0.1</string>
+    <string name="hello">Hello World, Tab at Bottom!</string>
+    <string-array name="Spinner_Content">
+        <item>One</item>
+        <item>Two</item>
+        <item>Three</item>
+    </string-array>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>
